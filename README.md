@@ -1,6 +1,9 @@
 # Active-Directory-Lab
-Created an Active Directory lab to practice interacting and managing users in comparison to help desk roles. Also used for practice with remote desktoping to devices on the domain for troubleshooting
-The contents listed below will be the configuration of my Domain Controller VM and the Windows server 
+# Overview # This project demonstrates the setup and configuration of an Active Directory Domain Services (AD DS) environment using Windows Server 2022 in a virtualized lab. The lab focuses on core system administration tasks such as domain creation, user and group management, DNS configuration, and basic troubleshooting.
+# Overview #
+# Objective # Install and Configure AD Domain Services, create and manage domain environment, Configure DNS for domain functionality, Create and manage OU's, verify domain functionality # Objective #
+
+# The contents listed below will be the configuration of my Domain Controller VM and the Windows server #
 My first step was downloading the Windows Server 2022 iso file and putting this OS into VirtualBox
 In VB Network settings, make sure the connection is set to "Host adapter only" to ensure that any devices added to the network can only communicate with the host Computer for security purposes.
 Made sure to change the name of my Server to a specific name value that shows its function and Purpose<img width="1024" height="768" alt="github 1" src="https://github.com/user-attachments/assets/f2ddbc21-3879-4469-8ac2-3dbfacae4ad6" />
