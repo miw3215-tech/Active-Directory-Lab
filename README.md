@@ -21,5 +21,6 @@ Verifying Users and Groups are properly created
 <img width="1024" height="768" alt="Github 8" src="https://github.com/user-attachments/assets/34a19761-ffc2-474e-bbd1-e3b55ae87b45" />
 Displays members of Groups created
 <img width="1024" height="768" alt="Github 9" src="https://github.com/user-attachments/assets/45fa608f-3986-4431-a8ca-fb7d1efa4568" />
+#Conclusion Successfully configured a functional Active Directory environment, including domain setup, user and group management, and Group Policy implementation. This project strengthened my understanding of core network services, authentication, and system administration.
 # Refer to Active Directory Part Two for User domain join process #
 
