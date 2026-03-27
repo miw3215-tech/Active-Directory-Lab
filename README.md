@@ -1,6 +1,6 @@
 # Active-Directory-Lab
-# Overview # This project demonstrates the setup and configuration of an Active Directory Domain Services (AD DS) environment using Windows Server 2022 in a virtualized lab. The lab focuses on core system administration tasks such as domain creation, user and group management, DNS configuration, and basic troubleshooting.
-# Overview #
+#Overview# This project demonstrates the setup and configuration of an Active Directory Domain Services (AD DS) environment using Windows Server 2022 in a virtualized lab. The lab focuses on core system administration tasks such as domain creation, user and group management, DNS configuration, and basic troubleshooting.
+
 # Objective # Install and Configure AD Domain Services, create and manage domain environment, Configure DNS for domain functionality, Create and manage OU's, verify domain functionality # Objective #
 
 # The contents listed below will be the configuration of my Domain Controller VM and the Windows server #
@@ -21,5 +21,5 @@ Verifying Users and Groups are properly created
 <img width="1024" height="768" alt="Github 8" src="https://github.com/user-attachments/assets/34a19761-ffc2-474e-bbd1-e3b55ae87b45" />
 Displays members of Groups created
 <img width="1024" height="768" alt="Github 9" src="https://github.com/user-attachments/assets/45fa608f-3986-4431-a8ca-fb7d1efa4568" />
-# See Active Directory Part Two for me joining client to Domain #
+# Refer to Active Directory Part Two for User domain join process #
 
