@@ -1,5 +1,5 @@
 # Active-Directory-Lab
-#Overview# This project demonstrates the setup and configuration of an Active Directory Domain Services (AD DS) environment using Windows Server 2022 in a virtualized lab. The lab focuses on core system administration tasks such as domain creation, user and group management, DNS configuration, and basic troubleshooting.
+#Overview# This project demonstrates the setup and configuration of an Active Directory Domain Services (AD DS) environment using Windows Server 2022 in a virtualized lab. The lab focuses on core system administration tasks such as domain creation, user and group management, DNS configuration, and basic troubleshooting. There is a Part 2 that shows the process of joining a user to the domain.
 
 #Objective# Install and Configure AD Domain Services, create and manage domain environment, Configure DNS for domain functionality, Create and manage OU's, verify domain functionality # Objective #
 
